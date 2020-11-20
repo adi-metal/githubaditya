@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<title>This is my title</title>
+<head></head>
+<body>
+<h1>This is my heading using h1 tag</h1>
+<p>Computer Programming is important</p>
+<ol type="A">
+<li>item 1</li>
+<li>item 2</li>
+<li>item 3</li>
+<li>item 4</li>
+</ol>
+<img src="https://images.indianexpress.com/2020/11/Sean-Connery-Dr-No-1.jpg"/>
+<button>click me bro</button>
+
+<ul>
+<li><a href="https://www.google.com">Go to Google</a></li>
+<li>item 2</li>
+<li>item 3</li>
+<li>item 4</li>
+</ul>
+
+<table style="width:60%">
+<caption>Information About Me</caption>
+<tr>
+<th>Name</th>
+<th>Role</th>
+<th>Company<th>
+</tr>
+
+<tr>
+<th>Aditya</th>
+<th>Student</th>
+<th>IIT PATNA<th>
+</tr>
+</table>
+<h2>This is my heading using h2 tag</h2>
+<form>
+Enter your name: <input type="text">
+Enter your email: <input type="email">
+<button type="submit">Submit form</button>
+</form>
+<h3>This is my heading using h3 tag</h3>
+<h4>This is my heading using h4 tag</h4>
+<h5>This is my heading using h5 tag</h5>
+<h6>This is my heading<br> using h6 tag</h6>
+</body>
+</html>

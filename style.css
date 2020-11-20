@@ -1,0 +1,8 @@
+body{
+    background-image: url('../imagess/bg.jpeg');
+    background-repeat: no-repeat;
+    background-color: aqua;
+    background-position: right top;
+    background-attachment:fixed ;
+
+}
